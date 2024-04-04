@@ -1,0 +1,15 @@
+﻿RR8901, Isengard Tower Model
+LL2345, Council Tapestry
+TT6789, Grey Robe
+OO1234, Precious Ring Holder
+FF5678, Acorn Vest
+GG9012, Dragon Incense 
+HH3456, Helm's Deep Playset
+WW7890, Phial Nightlight
+EE2345, Ringwraiths Chess
+PP6789, Ent-draught Flask
+ZZ1234, Beer Stein
+CC5678, Anduril Sword 
+XX9012, Gandalf's Hat 
+VV3456, Greenleaf Bow
+BB7890, Pipe Weed Sampler

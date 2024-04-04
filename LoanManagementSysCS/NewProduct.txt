@@ -1,0 +1,30 @@
+﻿RR1234, Sting Sword
+LL5678, Evenstar Necklace
+TT9012, Mithril Chainmail 
+OO3456, Bread Recipe Book
+FF7890, One Ring 
+GG2345, Wizard Staff 
+HH6789, Pipe Set
+WW1234, Lothlorien Elf Bow
+EE5678, Rivendell Tapestry 
+PP9012, Balrog Figure
+ZZ3456, Helm of Isildur 
+CC7890, Crystal Ball 
+XX2345, Ranger Cloak
+VV6789, Mirror Jewelry Box
+BB1234, Elven Quiver
+NN5678, Traveling Backpack
+MM9012, Treebeard Figurine
+JJ3456, Dark Tower Lego
+KK7890, The Prancing Pony Inn Sign
+QQ2345, Gandalf's Fireworks Set
+RR6789, Moria Mine T-shirt
+SS1234, Rohan Horse Figurine
+TT5678, Butterbur Ale Mug
+UU9012, Shire Map Poster
+II3456, Hooded Cloak
+OO7890, Gondor Shield
+AA2345, Evenstar Hairpin
+PP6789, Hobbiton Doormat
+MM1234, Westmarch Journal
+FF5678, Middle-earth Map 
