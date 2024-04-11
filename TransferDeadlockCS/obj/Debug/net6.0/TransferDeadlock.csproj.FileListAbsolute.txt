@@ -1,0 +1,14 @@
+C:\Users\hecto\source\repos\TransferDeadlock\bin\Debug\net6.0\TransferDeadlock.exe
+C:\Users\hecto\source\repos\TransferDeadlock\bin\Debug\net6.0\TransferDeadlock.deps.json
+C:\Users\hecto\source\repos\TransferDeadlock\bin\Debug\net6.0\TransferDeadlock.runtimeconfig.json
+C:\Users\hecto\source\repos\TransferDeadlock\bin\Debug\net6.0\TransferDeadlock.dll
+C:\Users\hecto\source\repos\TransferDeadlock\bin\Debug\net6.0\TransferDeadlock.pdb
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.AssemblyInfo.cs
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.dll
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\refint\TransferDeadlock.dll
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.pdb
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\TransferDeadlock.genruntimeconfig.cache
+C:\Users\hecto\source\repos\TransferDeadlock\obj\Debug\net6.0\ref\TransferDeadlock.dll
