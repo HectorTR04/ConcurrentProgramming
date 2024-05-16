@@ -1,0 +1,10 @@
+C:\Users\hecto\source\repos\FileBackup\bin\Debug\FileBackup.exe.config
+C:\Users\hecto\source\repos\FileBackup\bin\Debug\FileBackup.exe
+C:\Users\hecto\source\repos\FileBackup\bin\Debug\FileBackup.pdb
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.Properties.Resources.resources
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.csproj.GenerateResource.cache
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.exe
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.pdb
+C:\Users\hecto\source\repos\FileBackup\obj\Debug\FileBackup.MainForm.resources
