@@ -95,7 +95,6 @@ namespace TextEditor
         }
         private void UpdateStatusListBox(string action)
         {
-            // Assuming lstStatus is your ListBox control
             if (mainForm.ListStatus.InvokeRequired)
             {
                 mainForm.ListStatus.Invoke(new Action(() => mainForm.ListStatus.Items.Add(action)));
